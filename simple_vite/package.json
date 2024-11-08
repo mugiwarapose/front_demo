@@ -1,0 +1,16 @@
+{
+  "name": "simplejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "loadsh": "^0.0.4",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
